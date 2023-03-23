@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: validating place API's
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.182 s - in validating place API's
